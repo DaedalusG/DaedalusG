@@ -17,8 +17,6 @@ Check out my repos ⬇️
   </samp>
 </p>
 
-![](https://visitor-badge.glitch.me/badge?page_id=ari-hacks.ari-hacks)
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
