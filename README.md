@@ -5,7 +5,7 @@
 
 <!-- ## Trying to be more flow state :dragon: -->
 <p align="center">
-  <samp font-weight="bold">--- Trying to be more flow state ---</samp>
+  <samp font-weight="bold">--- Trying to attain more flow state ---</samp>
 </p>
 
 <p align="center">
