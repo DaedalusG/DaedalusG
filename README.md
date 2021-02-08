@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="800" height="250" src="https://lh3.googleusercontent.com/NTCTXvONVLnriwhSHgltgfxux3E-MD-8opJb23OXscknB-hwaRLQiiGl3Nnxe5S0Rye_C3Zq2CZFE8D8zJFOhBOQLRMX2kUtTHDz5vuV1npiQ7w_W4lYzFsbJmyOrGGOhU4HL1rgyg=w2400">
+  <img width="800" height="250" src="./ConwayGame.gif">
 </p>
 
 <!-- ## Trying to be more flow state :dragon: -->
