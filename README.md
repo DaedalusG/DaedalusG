@@ -16,6 +16,8 @@
 
 <p align="center">
   <samp font-weight="bold">--- This Humanist whom no beliefs constrained ---</samp>
+</p>
+<p align="center">
   <samp font-weight="bold">--- Grew so broad-minded he was scatter-brained. ---</samp>
 </p>
 
