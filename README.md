@@ -15,6 +15,11 @@
 </p>
 
 <p align="center">
+  <samp font-weight="bold">--- This Humanist whom no beliefs constrained ---</samp>
+  <samp font-weight="bold">--- Grew so broad-minded he was scatter-brained. ---</samp>
+</p>
+
+<p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/warren-gifford-he-him-b1141a1b4/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img>
   </a>
